@@ -9,11 +9,12 @@ Sistema web de Control y Registro de niños
 horarios, permite a los padres registrar a sus hijos de manera sencilla proporcionando 
 información básica y seguridad de los niños.
 ## Integrantes del Equipo
-- Willy Jhonatan Condori Esteban
-- Ahmed Kael Najar Vargas 
-- Eva Laura Quispe Murga
-- Maria del Carmen Rivera Mamani
-
+| Nombre                                | Rol                                   |
+|---------------------------------------|---------------------------------------|
+| Willy Jhonatan Condori Esteban        | Coach                                 |
+| Maria del Carmen Rivera Mamani        | Front End  
+| Ahmed Kael Najar Vargas               | Back End
+| Eva Laura Quispe Murga                | Analista de Calidad de Software
 ## Herramientas de Desarrollo
 
 ### PHP
