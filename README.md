@@ -28,4 +28,4 @@ HTML (HyperText Markup Language) es el lenguaje estándar para crear páginas we
 MySQL es un sistema de gestión de bases de datos relacional de código abierto. Es conocido por su rapidez, confiabilidad y facilidad de uso, siendo una opción popular para aplicaciones web.
 
 ## Diagrama de BD
-![Diagrama de Base de Datos](C:/Users/Eva%20Laura/Desktop/migit/FusionSoft/img/bd1.png)
+![Diagrama de Base de Datos](img/bd1.png)
