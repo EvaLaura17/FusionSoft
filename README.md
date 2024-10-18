@@ -12,8 +12,8 @@ información básica y seguridad de los niños.
 | Nombre                                | Rol                                   |
 |---------------------------------------|---------------------------------------|
 | Willy Jhonatan Condori Esteban        | Coach                                 |
-| Maria del Carmen Rivera Mamani        | Front End  
-| Ahmed Kael Najar Vargas               | Back End
+| Maria del Carmen Rivera Mamani        | Programador Front End  
+| Ahmed Kael Najar Vargas               | Programador Back End
 | Eva Laura Quispe Murga                | Analista de Calidad de Software
 ## Herramientas de Desarrollo
 
