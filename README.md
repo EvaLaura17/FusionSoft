@@ -1,4 +1,4 @@
-# FusionSoft
+# FusionSoft - Sistema Web de registro de niños para las clases y actividades de la iglesia Jazon
 
 ## Descripción
 Este sistema web integral para el registro y gestión de niños en una iglesia facilita el proceso 
